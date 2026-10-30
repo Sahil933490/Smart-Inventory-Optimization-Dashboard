@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Category,Warehouse,Current_Stock,Daily_Demand,Lead_Time,Unit_Cost,Supplier,Annual_Demand
+P0001,Product 0001,Food,Hyderabad,743,22,16,1688.61,Supplier E,8030
+P0002,Product 0002,Healthcare,Chennai,995,3,14,903.85,Supplier C,1095
+P0003,Product 0003,Home Appliances,Mumbai,768,11,19,1906.89,Supplier E,4015
+P0004,Product 0004,Electronics,Hyderabad,712,12,20,1308.57,Supplier C,4380
+P0005,Product 0005,Electronics,Ranchi,560,20,15,249.48,Supplier B,7300
+P0006,Product 0006,Healthcare,Pune,293,4,9,1772.48,Supplier A,1460
+P0007,Product 0007,Food,Hyderabad,336,11,13,988.75,Supplier D,4015
+P0008,Product 0008,Home Appliances,Mumbai,894,5,10,300.45,Supplier D,1825
+P0009,Product 0009,Beverages,Chennai,83,20,13,322.33,Supplier E,7300
+P0010,Product 0010,Food,Mumbai,101,16,17,1381.32,Supplier D,5840
+P0011,Product 0011,Clothing,Patna,475,13,9,113.8,Supplier A,4745
+P0012,Product 0012,Stationery,Chennai,929,11,11,587.46,Supplier C,4015
+P0013,Product 0013,Home Appliances,Patna,788,5,2,296.78,Supplier D,1825
+P0014,Product 0014,Healthcare,Kolkata,707,23,15,893.33,Supplier C,8395
+P0015,Product 0015,Home Appliances,Mumbai,640,16,11,840.42,Supplier C,5840
+P0016,Product 0016,Healthcare,Hyderabad,132,9,10,1053.32,Supplier E,3285
+P0017,Product 0017,Clothing,Kolkata,398,11,12,573.68,Supplier D,4015
+P0018,Product 0018,Beverages,Delhi,95,18,6,83.45,Supplier D,6570
+P0019,Product 0019,Healthcare,Jamshedpur,909,18,13,1236.48,Supplier C,6570
+P0020,Product 0020,Electronics,Ranchi,901,12,16,759.96,Supplier B,4380
+P0021,Product 0021,Clothing,Jamshedpur,309,8,8,1309.64,Supplier C,2920
+P0022,Product 0022,Personal Care,Jamshedpur,351,17,4,235.16,Supplier E,6205
+P0023,Product 0023,Beverages,Hyderabad,380,17,9,47.28,Supplier D,6205
+P0024,Product 0024,Stationery,Hyderabad,1067,15,5,511.62,Supplier D,5475
+P0025,Product 0025,Healthcare,Hyderabad,586,3,9,923.96,Supplier A,1095
+P0026,Product 0026,Home Appliances,Jamshedpur,914,12,13,800.26,Supplier E,4380
+P0027,Product 0027,Electronics,Jamshedpur,538,16,4,1624.4,Supplier B,5840
+P0028,Product 0028,Healthcare,Patna,837,23,16,768.12,Supplier E,8395
+P0029,Product 0029,Clothing,Mumbai,633,14,6,1070.27,Supplier C,5110
+P0030,Product 0030,Electronics,Kolkata,334,9,18,1195.16,Supplier E,3285
+P0031,Product 0031,Electronics,Delhi,1051,14,15,63.23,Supplier E,5110
+P0032,Product 0032,Beverages,Ranchi,850,6,7,1039.96,Supplier D,2190
+P0033,Product 0033,Food,Chennai,923,4,12,702.77,Supplier E,1460
+P0034,Product 0034,Clothing,Kolkata,1137,17,4,854.13,Supplier D,6205
+P0035,Product 0035,Stationery,Jamshedpur,298,24,3,218.57,Supplier E,8760
+P0036,Product 0036,Food,Chennai,109,21,20,1569.98,Supplier A,7665
+P0037,Product 0037,Healthcare,Pune,698,15,17,1885.96,Supplier A,5475
+P0038,Product 0038,Healthcare,Jamshedpur,391,2,4,64.09,Supplier C,730
+P0039,Product 0039,Personal Care,Delhi,522,24,7,1210.72,Supplier E,8760
+P0040,Product 0040,Home Appliances,Hyderabad,281,12,5,1532.41,Supplier D,4380
+P0041,Product 0041,Beverages,Chennai,478,8,9,583.92,Supplier C,2920
+P0042,Product 0042,Healthcare,Hyderabad,471,22,7,1579.36,Supplier C,8030
+P0043,Product 0043,Home Appliances,Delhi,420,19,8,1272.06,Supplier D,6935
+P0044,Product 0044,Personal Care,Kolkata,890,19,12,1859.74,Supplier E,6935
+P0045,Product 0045,Food,Chennai,711,8,5,1962.39,Supplier E,2920
+P0046,Product 0046,Stationery,Ranchi,569,24,18,103.85,Supplier A,8760
+P0047,Product 0047,Electronics,Patna,135,12,15,900.98,Supplier C,4380
+P0048,Product 0048,Stationery,Bangalore,684,14,16,1103.04,Supplier B,5110
+P0049,Product 0049,Home Appliances,Bangalore,210,19,5,310.55,Supplier D,6935
+P0050,Product 0050,Healthcare,Ranchi,376,17,15,685.85,Supplier C,6205
+P0051,Product 0051,Healthcare,Mumbai,497,5,17,1975.54,Supplier E,1825
+P0052,Product 0052,Beverages,Kolkata,169,8,5,52.14,Supplier C,2920
+P0053,Product 0053,Personal Care,Mumbai,467,10,16,915.97,Supplier D,3650
+P0054,Product 0054,Electronics,Pune,320,23,8,1688.46,Supplier A,8395
+P0055,Product 0055,Electronics,Jamshedpur,1019,18,16,661.32,Supplier E,6570
+P0056,Product 0056,Food,Pune,1031,10,11,970.0,Supplier A,3650
+P0057,Product 0057,Clothing,Delhi,5,18,17,1956.53,Supplier B,6570
+P0058,Product 0058,Beverages,Chennai,722,18,4,960.26,Supplier E,6570
+P0059,Product 0059,Home Appliances,Delhi,768,11,9,279.22,Supplier E,4015
+P0060,Product 0060,Home Appliances,Kolkata,453,11,7,122.41,Supplier C,4015
+P0061,Product 0061,Stationery,Chennai,562,22,6,1891.92,Supplier C,8030
+P0062,Product 0062,Home Appliances,Bangalore,947,14,7,546.3,Supplier A,5110
+P0063,Product 0063,Personal Care,Ranchi,453,5,9,1018.05,Supplier E,1825
+P0064,Product 0064,Stationery,Chennai,77,18,4,199.59,Supplier A,6570
+P0065,Product 0065,Electronics,Chennai,447,15,15,858.84,Supplier A,5475
+P0066,Product 0066,Personal Care,Kolkata,304,13,12,1861.61,Supplier C,4745
+P0067,Product 0067,Stationery,Pune,459,18,17,1014.78,Supplier A,6570
+P0068,Product 0068,Personal Care,Bangalore,276,22,15,1942.85,Supplier A,8030
+P0069,Product 0069,Food,Kolkata,179,9,4,532.49,Supplier D,3285
+P0070,Product 0070,Electronics,Jamshedpur,1182,11,3,1019.0,Supplier D,4015
+P0071,Product 0071,Healthcare,Bangalore,154,6,10,1721.87,Supplier B,2190
+P0072,Product 0072,Beverages,Patna,847,16,11,907.54,Supplier D,5840
+P0073,Product 0073,Electronics,Chennai,861,11,6,573.38,Supplier D,4015
+P0074,Product 0074,Beverages,Mumbai,741,9,16,1713.84,Supplier B,3285
+P0075,Product 0075,Home Appliances,Delhi,1093,18,13,791.98,Supplier D,6570
+P0076,Product 0076,Electronics,Ranchi,5,11,16,1070.83,Supplier C,4015
+P0077,Product 0077,Personal Care,Chennai,361,12,4,1953.52,Supplier E,4380
+P0078,Product 0078,Beverages,Ranchi,221,12,17,389.24,Supplier A,4380
+P0079,Product 0079,Clothing,Delhi,692,7,5,616.77,Supplier B,2555
+P0080,Product 0080,Home Appliances,Hyderabad,762,4,10,81.52,Supplier B,1460
+P0081,Product 0081,Stationery,Pune,1077,21,10,795.84,Supplier B,7665
+P0082,Product 0082,Electronics,Pune,455,4,17,416.36,Supplier E,1460
+P0083,Product 0083,Beverages,Pune,283,9,7,1366.47,Supplier D,3285
+P0084,Product 0084,Healthcare,Mumbai,1109,17,6,379.02,Supplier C,6205
+P0085,Product 0085,Home Appliances,Patna,807,5,8,1356.13,Supplier C,1825
+P0086,Product 0086,Home Appliances,Hyderabad,917,17,8,541.68,Supplier E,6205
+P0087,Product 0087,Food,Hyderabad,533,18,5,723.33,Supplier C,6570
+P0088,Product 0088,Personal Care,Pune,536,17,5,710.74,Supplier B,6205
+P0089,Product 0089,Healthcare,Bangalore,466,9,6,1439.17,Supplier A,3285
+P0090,Product 0090,Healthcare,Ranchi,899,2,10,943.69,Supplier B,730
+P0091,Product 0091,Electronics,Mumbai,252,22,8,735.37,Supplier D,8030
+P0092,Product 0092,Healthcare,Delhi,1170,9,9,1708.19,Supplier C,3285
+P0093,Product 0093,Healthcare,Hyderabad,211,20,15,1152.46,Supplier C,7300
+P0094,Product 0094,Electronics,Kolkata,553,6,6,443.39,Supplier C,2190
+P0095,Product 0095,Stationery,Kolkata,377,5,19,1802.18,Supplier E,1825
+P0096,Product 0096,Personal Care,Jamshedpur,771,19,16,698.45,Supplier E,6935
+P0097,Product 0097,Beverages,Hyderabad,816,23,5,97.18,Supplier A,8395
+P0098,Product 0098,Home Appliances,Chennai,1102,21,7,999.31,Supplier A,7665
+P0099,Product 0099,Home Appliances,Jamshedpur,947,19,5,265.4,Supplier B,6935
+P0100,Product 0100,Beverages,Delhi,298,7,7,492.16,Supplier E,2555
+P0101,Product 0101,Healthcare,Delhi,247,23,8,1499.28,Supplier C,8395
+P0102,Product 0102,Beverages,Delhi,1063,17,4,278.89,Supplier E,6205
+P0103,Product 0103,Healthcare,Pune,585,5,2,1617.75,Supplier D,1825
+P0104,Product 0104,Food,Ranchi,117,4,10,1875.08,Supplier C,1460
+P0105,Product 0105,Healthcare,Kolkata,989,22,15,1220.93,Supplier B,8030
+P0106,Product 0106,Healthcare,Ranchi,778,8,7,1426.51,Supplier B,2920
+P0107,Product 0107,Healthcare,Patna,30,19,18,1432.9,Supplier A,6935
+P0108,Product 0108,Home Appliances,Pune,939,5,9,1985.76,Supplier C,1825
+P0109,Product 0109,Electronics,Pune,728,8,19,696.25,Supplier B,2920
+P0110,Product 0110,Home Appliances,Jamshedpur,737,8,6,342.46,Supplier B,2920
+P0111,Product 0111,Personal Care,Bangalore,1037,8,12,1047.95,Supplier A,2920
+P0112,Product 0112,Healthcare,Patna,594,17,16,1075.83,Supplier D,6205
+P0113,Product 0113,Clothing,Ranchi,553,23,3,372.27,Supplier E,8395
+P0114,Product 0114,Electronics,Patna,740,22,19,1233.96,Supplier C,8030
+P0115,Product 0115,Clothing,Ranchi,237,19,8,47.97,Supplier C,6935
+P0116,Product 0116,Clothing,Delhi,181,6,11,1856.78,Supplier E,2190
+P0117,Product 0117,Food,Pune,1012,24,13,543.86,Supplier C,8760
+P0118,Product 0118,Beverages,Mumbai,258,14,14,98.33,Supplier D,5110
+P0119,Product 0119,Beverages,Chennai,605,14,2,234.33,Supplier C,5110
+P0120,Product 0120,Food,Delhi,323,18,18,495.69,Supplier C,6570
+P0121,Product 0121,Electronics,Jamshedpur,276,19,13,562.33,Supplier C,6935
+P0122,Product 0122,Home Appliances,Jamshedpur,717,23,20,84.96,Supplier D,8395
+P0123,Product 0123,Home Appliances,Patna,962,15,10,573.12,Supplier D,5475
+P0124,Product 0124,Electronics,Patna,530,16,13,402.02,Supplier C,5840
+P0125,Product 0125,Healthcare,Hyderabad,166,19,10,769.67,Supplier A,6935
+P0126,Product 0126,Clothing,Hyderabad,293,7,18,782.63,Supplier E,2555
+P0127,Product 0127,Food,Hyderabad,197,9,17,691.24,Supplier E,3285
+P0128,Product 0128,Healthcare,Bangalore,1059,16,19,669.29,Supplier A,5840
+P0129,Product 0129,Clothing,Mumbai,383,3,11,197.67,Supplier B,1095
+P0130,Product 0130,Home Appliances,Bangalore,448,9,17,69.91,Supplier E,3285
+P0131,Product 0131,Clothing,Delhi,85,18,8,420.19,Supplier B,6570
+P0132,Product 0132,Clothing,Bangalore,535,24,10,1518.17,Supplier E,8760
+P0133,Product 0133,Food,Chennai,1096,13,16,1981.8,Supplier D,4745
+P0134,Product 0134,Clothing,Chennai,491,11,3,1858.48,Supplier E,4015
+P0135,Product 0135,Healthcare,Bangalore,781,12,15,1018.35,Supplier A,4380
+P0136,Product 0136,Personal Care,Jamshedpur,218,17,2,1073.01,Supplier C,6205
+P0137,Product 0137,Clothing,Chennai,171,14,13,642.87,Supplier C,5110
+P0138,Product 0138,Food,Kolkata,877,2,11,1552.4,Supplier E,730
+P0139,Product 0139,Personal Care,Chennai,78,14,10,1534.22,Supplier B,5110
+P0140,Product 0140,Electronics,Mumbai,538,11,11,1691.66,Supplier B,4015
+P0141,Product 0141,Stationery,Hyderabad,380,18,11,1793.1,Supplier A,6570
+P0142,Product 0142,Beverages,Kolkata,19,22,9,880.01,Supplier D,8030
+P0143,Product 0143,Personal Care,Pune,637,24,10,1538.41,Supplier E,8760
+P0144,Product 0144,Electronics,Hyderabad,1156,16,12,1616.67,Supplier A,5840
+P0145,Product 0145,Stationery,Kolkata,82,10,16,630.75,Supplier B,3650
+P0146,Product 0146,Healthcare,Delhi,978,12,12,1859.9,Supplier B,4380
+P0147,Product 0147,Food,Mumbai,647,6,14,206.8,Supplier E,2190
+P0148,Product 0148,Beverages,Chennai,868,23,17,1988.65,Supplier C,8395
+P0149,Product 0149,Healthcare,Bangalore,115,21,20,1544.78,Supplier B,7665
+P0150,Product 0150,Food,Hyderabad,1042,21,4,204.68,Supplier B,7665
+P0151,Product 0151,Healthcare,Kolkata,13,9,15,1319.33,Supplier C,3285
+P0152,Product 0152,Personal Care,Mumbai,1088,9,6,87.68,Supplier B,3285
+P0153,Product 0153,Stationery,Delhi,789,21,5,1544.97,Supplier A,7665
+P0154,Product 0154,Personal Care,Pune,404,14,17,1602.46,Supplier E,5110
+P0155,Product 0155,Electronics,Kolkata,8,18,3,1212.77,Supplier C,6570
+P0156,Product 0156,Home Appliances,Mumbai,733,13,18,1716.58,Supplier B,4745
+P0157,Product 0157,Beverages,Ranchi,104,12,16,213.81,Supplier D,4380
+P0158,Product 0158,Clothing,Hyderabad,730,16,20,566.33,Supplier D,5840
+P0159,Product 0159,Clothing,Kolkata,927,20,14,840.07,Supplier A,7300
+P0160,Product 0160,Healthcare,Kolkata,320,9,18,104.07,Supplier A,3285
+P0161,Product 0161,Stationery,Mumbai,286,20,4,907.47,Supplier A,7300
+P0162,Product 0162,Home Appliances,Delhi,266,7,18,545.12,Supplier D,2555
+P0163,Product 0163,Electronics,Hyderabad,269,11,5,797.62,Supplier D,4015
+P0164,Product 0164,Electronics,Mumbai,136,22,7,861.7,Supplier D,8030
+P0165,Product 0165,Electronics,Mumbai,299,23,4,1761.24,Supplier D,8395
+P0166,Product 0166,Healthcare,Ranchi,791,23,9,555.28,Supplier C,8395
+P0167,Product 0167,Personal Care,Jamshedpur,363,9,16,1789.61,Supplier C,3285
+P0168,Product 0168,Beverages,Kolkata,937,21,7,863.42,Supplier D,7665
+P0169,Product 0169,Personal Care,Pune,983,23,17,669.06,Supplier B,8395
+P0170,Product 0170,Food,Pune,913,24,13,1014.97,Supplier E,8760
+P0171,Product 0171,Food,Bangalore,647,2,13,847.13,Supplier E,730
+P0172,Product 0172,Food,Bangalore,379,19,19,529.6,Supplier E,6935
+P0173,Product 0173,Healthcare,Kolkata,1115,24,10,1015.31,Supplier E,8760
+P0174,Product 0174,Home Appliances,Ranchi,246,19,8,320.57,Supplier B,6935
+P0175,Product 0175,Home Appliances,Jamshedpur,557,7,20,716.82,Supplier A,2555
+P0176,Product 0176,Electronics,Kolkata,544,19,12,1140.26,Supplier C,6935
+P0177,Product 0177,Home Appliances,Kolkata,894,4,13,838.55,Supplier D,1460
+P0178,Product 0178,Beverages,Ranchi,656,13,7,1651.35,Supplier D,4745
+P0179,Product 0179,Stationery,Patna,959,16,6,528.31,Supplier B,5840
+P0180,Product 0180,Clothing,Jamshedpur,1102,12,5,1940.15,Supplier B,4380
+P0181,Product 0181,Stationery,Bangalore,468,18,6,1573.75,Supplier C,6570
+P0182,Product 0182,Beverages,Pune,1049,7,5,1935.83,Supplier E,2555
+P0183,Product 0183,Electronics,Bangalore,203,15,16,1679.51,Supplier A,5475
+P0184,Product 0184,Home Appliances,Delhi,1099,16,3,301.37,Supplier B,5840
+P0185,Product 0185,Electronics,Delhi,213,16,13,1062.39,Supplier B,5840
+P0186,Product 0186,Electronics,Kolkata,1020,8,20,356.56,Supplier E,2920
+P0187,Product 0187,Beverages,Ranchi,468,9,16,1640.09,Supplier C,3285
+P0188,Product 0188,Electronics,Mumbai,1157,7,9,1176.64,Supplier A,2555
+P0189,Product 0189,Beverages,Mumbai,155,12,3,541.63,Supplier B,4380
+P0190,Product 0190,Personal Care,Jamshedpur,558,15,17,1860.61,Supplier A,5475
+P0191,Product 0191,Home Appliances,Delhi,1082,10,2,248.07,Supplier C,3650
+P0192,Product 0192,Home Appliances,Patna,56,11,14,1136.45,Supplier E,4015
+P0193,Product 0193,Clothing,Ranchi,318,8,14,1447.66,Supplier C,2920
+P0194,Product 0194,Personal Care,Chennai,100,7,5,136.52,Supplier E,2555
+P0195,Product 0195,Stationery,Mumbai,385,17,16,1203.75,Supplier D,6205
+P0196,Product 0196,Food,Bangalore,468,20,5,1635.48,Supplier E,7300
+P0197,Product 0197,Personal Care,Chennai,742,8,6,153.7,Supplier B,2920
+P0198,Product 0198,Food,Pune,309,21,17,1034.24,Supplier E,7665
+P0199,Product 0199,Personal Care,Hyderabad,190,15,20,531.94,Supplier B,5475
+P0200,Product 0200,Stationery,Bangalore,203,5,7,1332.59,Supplier C,1825
+P0201,Product 0201,Personal Care,Hyderabad,1126,10,19,254.98,Supplier D,3650
+P0202,Product 0202,Stationery,Delhi,1143,2,19,1875.36,Supplier B,730
+P0203,Product 0203,Electronics,Pune,265,2,16,1791.56,Supplier B,730
+P0204,Product 0204,Home Appliances,Chennai,234,9,4,388.23,Supplier A,3285
+P0205,Product 0205,Electronics,Bangalore,65,12,7,660.07,Supplier A,4380
+P0206,Product 0206,Personal Care,Pune,1151,20,14,1183.52,Supplier C,7300
+P0207,Product 0207,Healthcare,Mumbai,847,5,20,1441.76,Supplier E,1825
+P0208,Product 0208,Stationery,Chennai,913,21,17,896.46,Supplier B,7665
+P0209,Product 0209,Personal Care,Patna,348,7,9,329.46,Supplier C,2555
+P0210,Product 0210,Healthcare,Pune,769,5,6,226.22,Supplier E,1825
+P0211,Product 0211,Personal Care,Bangalore,71,18,20,1999.54,Supplier D,6570
+P0212,Product 0212,Home Appliances,Chennai,811,19,7,921.6,Supplier A,6935
+P0213,Product 0213,Healthcare,Delhi,695,15,8,1747.61,Supplier C,5475
+P0214,Product 0214,Electronics,Hyderabad,397,4,20,975.1,Supplier A,1460
+P0215,Product 0215,Home Appliances,Jamshedpur,852,4,12,1846.27,Supplier B,1460
+P0216,Product 0216,Personal Care,Ranchi,775,10,7,193.76,Supplier B,3650
+P0217,Product 0217,Food,Mumbai,526,12,2,245.76,Supplier D,4380
+P0218,Product 0218,Food,Chennai,224,24,10,1860.67,Supplier A,8760
+P0219,Product 0219,Electronics,Hyderabad,28,8,20,1896.04,Supplier B,2920
+P0220,Product 0220,Stationery,Delhi,1125,6,10,643.14,Supplier B,2190
+P0221,Product 0221,Beverages,Bangalore,337,23,15,723.23,Supplier B,8395
+P0222,Product 0222,Electronics,Mumbai,362,5,6,915.85,Supplier D,1825
+P0223,Product 0223,Home Appliances,Pune,817,2,16,844.0,Supplier B,730
+P0224,Product 0224,Beverages,Bangalore,306,11,16,396.29,Supplier B,4015
+P0225,Product 0225,Home Appliances,Delhi,450,11,13,1798.78,Supplier C,4015
+P0226,Product 0226,Personal Care,Pune,853,16,16,521.55,Supplier D,5840
+P0227,Product 0227,Healthcare,Ranchi,714,22,12,1416.44,Supplier A,8030
+P0228,Product 0228,Clothing,Pune,787,23,9,152.97,Supplier E,8395
+P0229,Product 0229,Clothing,Ranchi,5,8,16,96.73,Supplier E,2920
+P0230,Product 0230,Beverages,Patna,541,24,17,1314.39,Supplier D,8760
+P0231,Product 0231,Electronics,Hyderabad,570,16,17,691.25,Supplier C,5840
+P0232,Product 0232,Healthcare,Chennai,758,3,6,1317.81,Supplier D,1095
+P0233,Product 0233,Food,Pune,181,23,14,206.16,Supplier C,8395
+P0234,Product 0234,Healthcare,Chennai,191,5,2,1900.71,Supplier B,1825
+P0235,Product 0235,Electronics,Bangalore,914,15,12,1502.06,Supplier B,5475
+P0236,Product 0236,Home Appliances,Kolkata,807,20,12,1755.01,Supplier A,7300
+P0237,Product 0237,Home Appliances,Jamshedpur,973,7,8,290.21,Supplier E,2555
+P0238,Product 0238,Electronics,Ranchi,324,8,20,653.92,Supplier B,2920
+P0239,Product 0239,Personal Care,Patna,1197,12,18,749.32,Supplier B,4380
+P0240,Product 0240,Home Appliances,Jamshedpur,327,22,2,1083.6,Supplier E,8030
+P0241,Product 0241,Beverages,Mumbai,781,7,5,607.8,Supplier C,2555
+P0242,Product 0242,Clothing,Chennai,194,17,5,140.05,Supplier D,6205
+P0243,Product 0243,Food,Pune,1102,12,19,750.38,Supplier B,4380
+P0244,Product 0244,Home Appliances,Delhi,398,4,11,524.01,Supplier B,1460
+P0245,Product 0245,Home Appliances,Hyderabad,962,18,15,784.12,Supplier D,6570
+P0246,Product 0246,Food,Pune,397,21,17,409.98,Supplier C,7665
+P0247,Product 0247,Healthcare,Hyderabad,949,15,16,538.55,Supplier A,5475
+P0248,Product 0248,Electronics,Delhi,545,6,3,1261.37,Supplier E,2190
+P0249,Product 0249,Healthcare,Kolkata,74,5,4,788.54,Supplier C,1825
+P0250,Product 0250,Food,Pune,228,11,9,703.86,Supplier D,4015
+P0251,Product 0251,Beverages,Patna,820,13,8,1077.13,Supplier B,4745
+P0252,Product 0252,Electronics,Delhi,231,14,16,1548.28,Supplier C,5110
+P0253,Product 0253,Beverages,Jamshedpur,330,7,4,770.16,Supplier D,2555
+P0254,Product 0254,Personal Care,Chennai,650,13,9,1183.29,Supplier E,4745
+P0255,Product 0255,Home Appliances,Bangalore,303,8,6,1933.08,Supplier B,2920
+P0256,Product 0256,Beverages,Jamshedpur,154,17,5,1053.52,Supplier D,6205
+P0257,Product 0257,Home Appliances,Patna,749,20,5,1821.4,Supplier E,7300
+P0258,Product 0258,Food,Mumbai,826,17,5,1591.47,Supplier D,6205
+P0259,Product 0259,Beverages,Mumbai,879,2,12,136.26,Supplier A,730
+P0260,Product 0260,Clothing,Hyderabad,1132,24,9,869.62,Supplier A,8760
+P0261,Product 0261,Healthcare,Patna,149,2,10,1402.67,Supplier B,730
+P0262,Product 0262,Beverages,Pune,512,24,11,1973.69,Supplier A,8760
+P0263,Product 0263,Personal Care,Delhi,280,2,16,927.59,Supplier D,730
+P0264,Product 0264,Stationery,Hyderabad,1081,13,18,203.72,Supplier E,4745
+P0265,Product 0265,Stationery,Patna,647,4,12,1132.78,Supplier C,1460
+P0266,Product 0266,Clothing,Jamshedpur,117,4,14,270.6,Supplier C,1460
+P0267,Product 0267,Electronics,Jamshedpur,830,17,16,1508.01,Supplier D,6205
+P0268,Product 0268,Personal Care,Kolkata,51,18,15,1025.2,Supplier C,6570
+P0269,Product 0269,Clothing,Pune,329,4,4,1452.39,Supplier C,1460
+P0270,Product 0270,Clothing,Jamshedpur,865,24,20,1741.34,Supplier C,8760
+P0271,Product 0271,Personal Care,Kolkata,607,9,5,1265.32,Supplier B,3285
+P0272,Product 0272,Food,Ranchi,913,9,9,1232.63,Supplier A,3285
+P0273,Product 0273,Beverages,Pune,685,8,14,1514.05,Supplier C,2920
+P0274,Product 0274,Stationery,Bangalore,1011,12,9,1688.06,Supplier E,4380
+P0275,Product 0275,Electronics,Chennai,675,6,6,1740.73,Supplier A,2190
+P0276,Product 0276,Electronics,Chennai,68,11,19,92.13,Supplier B,4015
+P0277,Product 0277,Electronics,Bangalore,85,6,3,1121.26,Supplier B,2190
+P0278,Product 0278,Healthcare,Chennai,932,3,6,448.21,Supplier E,1095
+P0279,Product 0279,Food,Jamshedpur,46,10,20,1723.48,Supplier C,3650
+P0280,Product 0280,Food,Hyderabad,451,17,15,1303.83,Supplier C,6205
+P0281,Product 0281,Personal Care,Chennai,19,19,3,852.04,Supplier D,6935
+P0282,Product 0282,Electronics,Chennai,364,10,16,392.45,Supplier B,3650
+P0283,Product 0283,Home Appliances,Kolkata,714,9,20,691.27,Supplier D,3285
+P0284,Product 0284,Electronics,Hyderabad,207,20,3,1413.48,Supplier A,7300
+P0285,Product 0285,Electronics,Kolkata,559,17,9,424.63,Supplier A,6205
+P0286,Product 0286,Stationery,Jamshedpur,1195,21,10,205.29,Supplier E,7665
+P0287,Product 0287,Beverages,Pune,84,22,4,1778.3,Supplier D,8030
+P0288,Product 0288,Clothing,Patna,76,20,5,1533.14,Supplier A,7300
+P0289,Product 0289,Clothing,Ranchi,325,23,5,415.59,Supplier C,8395
+P0290,Product 0290,Electronics,Bangalore,992,11,5,598.78,Supplier A,4015
+P0291,Product 0291,Healthcare,Patna,486,11,9,1944.7,Supplier D,4015
+P0292,Product 0292,Personal Care,Hyderabad,767,9,10,1422.21,Supplier D,3285
+P0293,Product 0293,Stationery,Delhi,40,7,6,1228.83,Supplier B,2555
+P0294,Product 0294,Personal Care,Jamshedpur,882,19,7,629.1,Supplier B,6935
+P0295,Product 0295,Clothing,Pune,80,18,5,612.27,Supplier B,6570
+P0296,Product 0296,Clothing,Mumbai,854,20,17,98.26,Supplier B,7300
+P0297,Product 0297,Healthcare,Patna,177,5,6,1462.39,Supplier B,1825
+P0298,Product 0298,Electronics,Bangalore,1030,13,19,105.49,Supplier B,4745
+P0299,Product 0299,Personal Care,Mumbai,355,7,12,29.62,Supplier C,2555
+P0300,Product 0300,Food,Jamshedpur,220,22,17,1464.4,Supplier E,8030
+P0301,Product 0301,Personal Care,Chennai,404,8,14,1898.77,Supplier D,2920
+P0302,Product 0302,Healthcare,Delhi,0,5,7,1517.88,Supplier B,1825
+P0303,Product 0303,Food,Bangalore,198,15,13,953.85,Supplier E,5475
+P0304,Product 0304,Stationery,Hyderabad,718,22,7,982.37,Supplier B,8030
+P0305,Product 0305,Clothing,Bangalore,360,23,4,883.55,Supplier E,8395
+P0306,Product 0306,Beverages,Bangalore,424,4,6,662.79,Supplier B,1460
+P0307,Product 0307,Personal Care,Patna,968,9,7,1052.99,Supplier C,3285
+P0308,Product 0308,Clothing,Patna,148,5,4,873.68,Supplier B,1825
+P0309,Product 0309,Personal Care,Delhi,475,9,2,1204.37,Supplier D,3285
+P0310,Product 0310,Food,Hyderabad,223,14,19,1798.28,Supplier B,5110
+P0311,Product 0311,Home Appliances,Mumbai,579,8,11,1990.12,Supplier E,2920
+P0312,Product 0312,Home Appliances,Kolkata,398,3,9,175.91,Supplier A,1095
+P0313,Product 0313,Food,Chennai,55,13,19,781.67,Supplier C,4745
+P0314,Product 0314,Personal Care,Hyderabad,84,3,6,377.8,Supplier A,1095
+P0315,Product 0315,Beverages,Pune,1022,7,9,717.2,Supplier E,2555
+P0316,Product 0316,Home Appliances,Patna,68,2,18,589.2,Supplier C,730
+P0317,Product 0317,Home Appliances,Chennai,939,3,14,365.58,Supplier D,1095
+P0318,Product 0318,Home Appliances,Mumbai,1099,12,9,1532.87,Supplier E,4380
+P0319,Product 0319,Stationery,Delhi,558,21,6,1002.65,Supplier C,7665
+P0320,Product 0320,Healthcare,Kolkata,374,19,2,1840.11,Supplier A,6935
+P0321,Product 0321,Personal Care,Ranchi,931,4,3,84.53,Supplier B,1460
+P0322,Product 0322,Food,Patna,1178,2,5,152.62,Supplier B,730
+P0323,Product 0323,Clothing,Mumbai,144,9,16,818.48,Supplier E,3285
+P0324,Product 0324,Stationery,Hyderabad,1157,17,14,178.95,Supplier E,6205
+P0325,Product 0325,Stationery,Hyderabad,1132,19,10,540.2,Supplier C,6935
+P0326,Product 0326,Beverages,Ranchi,171,20,16,1972.34,Supplier E,7300
+P0327,Product 0327,Beverages,Bangalore,65,9,5,433.74,Supplier B,3285
+P0328,Product 0328,Food,Jamshedpur,857,5,6,412.27,Supplier D,1825
+P0329,Product 0329,Beverages,Bangalore,93,2,9,1155.81,Supplier B,730
+P0330,Product 0330,Clothing,Kolkata,720,5,19,1006.04,Supplier B,1825
+P0331,Product 0331,Clothing,Delhi,77,3,13,1169.27,Supplier B,1095
+P0332,Product 0332,Personal Care,Chennai,828,21,18,765.94,Supplier C,7665
+P0333,Product 0333,Personal Care,Delhi,278,8,6,1656.99,Supplier B,2920
+P0334,Product 0334,Healthcare,Hyderabad,115,20,18,294.39,Supplier B,7300
+P0335,Product 0335,Electronics,Mumbai,79,14,3,868.22,Supplier B,5110
+P0336,Product 0336,Healthcare,Pune,226,14,6,1385.73,Supplier A,5110
+P0337,Product 0337,Stationery,Bangalore,648,12,11,1739.11,Supplier E,4380
+P0338,Product 0338,Personal Care,Patna,91,20,2,751.75,Supplier B,7300
+P0339,Product 0339,Beverages,Chennai,962,2,18,1144.14,Supplier A,730
+P0340,Product 0340,Stationery,Delhi,724,4,18,156.9,Supplier C,1460
+P0341,Product 0341,Home Appliances,Mumbai,356,11,12,357.23,Supplier E,4015
+P0342,Product 0342,Personal Care,Ranchi,1183,11,7,156.89,Supplier B,4015
+P0343,Product 0343,Clothing,Ranchi,790,14,3,1461.2,Supplier E,5110
+P0344,Product 0344,Clothing,Mumbai,806,18,13,590.36,Supplier D,6570
+P0345,Product 0345,Stationery,Ranchi,208,15,12,1453.02,Supplier D,5475
+P0346,Product 0346,Personal Care,Pune,852,7,16,151.47,Supplier B,2555
+P0347,Product 0347,Stationery,Hyderabad,671,9,13,1727.84,Supplier A,3285
+P0348,Product 0348,Stationery,Chennai,1181,19,4,1674.35,Supplier B,6935
+P0349,Product 0349,Beverages,Chennai,573,6,4,196.08,Supplier E,2190
+P0350,Product 0350,Beverages,Mumbai,813,13,16,67.04,Supplier D,4745
+P0351,Product 0351,Clothing,Jamshedpur,409,14,5,131.45,Supplier D,5110
+P0352,Product 0352,Food,Kolkata,48,19,19,1710.19,Supplier E,6935
+P0353,Product 0353,Personal Care,Delhi,153,18,4,484.71,Supplier B,6570
+P0354,Product 0354,Electronics,Pune,1040,12,15,1105.58,Supplier B,4380
+P0355,Product 0355,Stationery,Patna,885,9,20,863.96,Supplier E,3285
+P0356,Product 0356,Stationery,Delhi,437,10,10,1595.14,Supplier C,3650
+P0357,Product 0357,Beverages,Kolkata,837,11,3,988.02,Supplier B,4015
+P0358,Product 0358,Stationery,Ranchi,5,7,18,1011.31,Supplier B,2555
+P0359,Product 0359,Food,Ranchi,44,16,5,1978.4,Supplier E,5840
+P0360,Product 0360,Home Appliances,Kolkata,608,6,12,317.26,Supplier A,2190
+P0361,Product 0361,Healthcare,Jamshedpur,749,16,20,1664.79,Supplier A,5840
+P0362,Product 0362,Stationery,Jamshedpur,1124,19,16,122.46,Supplier D,6935
+P0363,Product 0363,Beverages,Kolkata,911,24,2,965.74,Supplier A,8760
+P0364,Product 0364,Stationery,Patna,308,4,17,1774.94,Supplier A,1460
+P0365,Product 0365,Food,Mumbai,978,19,5,1337.12,Supplier E,6935
+P0366,Product 0366,Clothing,Jamshedpur,589,3,16,1376.72,Supplier C,1095
+P0367,Product 0367,Electronics,Kolkata,991,9,13,541.37,Supplier D,3285
+P0368,Product 0368,Personal Care,Delhi,208,6,7,848.78,Supplier C,2190
+P0369,Product 0369,Food,Pune,31,5,10,745.83,Supplier A,1825
+P0370,Product 0370,Healthcare,Bangalore,69,6,4,1052.46,Supplier A,2190
+P0371,Product 0371,Personal Care,Hyderabad,1189,3,20,935.21,Supplier D,1095
+P0372,Product 0372,Home Appliances,Kolkata,96,20,6,667.26,Supplier A,7300
+P0373,Product 0373,Electronics,Delhi,1127,3,7,624.85,Supplier C,1095
+P0374,Product 0374,Personal Care,Delhi,872,11,11,516.69,Supplier B,4015
+P0375,Product 0375,Stationery,Hyderabad,175,18,14,742.79,Supplier B,6570
+P0376,Product 0376,Food,Pune,1036,24,11,316.88,Supplier E,8760
+P0377,Product 0377,Home Appliances,Pune,173,21,11,1746.77,Supplier D,7665
+P0378,Product 0378,Home Appliances,Chennai,171,5,13,1212.2,Supplier D,1825
+P0379,Product 0379,Electronics,Mumbai,690,24,18,284.9,Supplier B,8760
+P0380,Product 0380,Personal Care,Mumbai,345,17,9,1393.84,Supplier B,6205
+P0381,Product 0381,Food,Pune,348,6,17,1698.38,Supplier D,2190
+P0382,Product 0382,Stationery,Patna,234,12,16,490.32,Supplier A,4380
+P0383,Product 0383,Stationery,Kolkata,729,23,20,318.19,Supplier B,8395
+P0384,Product 0384,Beverages,Hyderabad,32,11,19,37.06,Supplier D,4015
+P0385,Product 0385,Food,Kolkata,294,6,17,113.56,Supplier D,2190
+P0386,Product 0386,Food,Patna,664,22,6,1529.26,Supplier A,8030
+P0387,Product 0387,Food,Mumbai,583,23,16,1974.63,Supplier D,8395
+P0388,Product 0388,Healthcare,Kolkata,839,24,15,108.86,Supplier C,8760
+P0389,Product 0389,Stationery,Hyderabad,259,23,7,1501.18,Supplier B,8395
+P0390,Product 0390,Beverages,Pune,777,22,14,162.29,Supplier D,8030
+P0391,Product 0391,Home Appliances,Kolkata,911,12,6,1192.42,Supplier E,4380
+P0392,Product 0392,Beverages,Mumbai,465,6,11,1517.03,Supplier C,2190
+P0393,Product 0393,Personal Care,Pune,308,16,17,731.22,Supplier B,5840
+P0394,Product 0394,Clothing,Chennai,666,7,5,41.65,Supplier B,2555
+P0395,Product 0395,Home Appliances,Patna,694,12,8,1198.47,Supplier C,4380
+P0396,Product 0396,Healthcare,Mumbai,112,17,17,1982.66,Supplier A,6205
+P0397,Product 0397,Food,Bangalore,678,23,10,530.08,Supplier C,8395
+P0398,Product 0398,Beverages,Bangalore,185,8,20,395.19,Supplier A,2920
+P0399,Product 0399,Personal Care,Jamshedpur,682,7,2,265.37,Supplier A,2555
+P0400,Product 0400,Personal Care,Patna,1118,18,15,1119.41,Supplier C,6570
+P0401,Product 0401,Stationery,Hyderabad,644,2,17,1200.96,Supplier D,730
+P0402,Product 0402,Healthcare,Patna,913,15,19,1588.7,Supplier E,5475
+P0403,Product 0403,Personal Care,Patna,371,19,4,1511.09,Supplier A,6935
+P0404,Product 0404,Stationery,Kolkata,1107,14,20,1787.23,Supplier B,5110
+P0405,Product 0405,Electronics,Ranchi,975,10,9,1615.43,Supplier C,3650
+P0406,Product 0406,Clothing,Ranchi,1100,21,8,509.59,Supplier C,7665
+P0407,Product 0407,Electronics,Kolkata,889,10,8,1120.64,Supplier E,3650
+P0408,Product 0408,Beverages,Hyderabad,779,18,14,608.88,Supplier D,6570
+P0409,Product 0409,Stationery,Jamshedpur,630,12,14,672.98,Supplier C,4380
+P0410,Product 0410,Food,Patna,1113,2,11,1865.25,Supplier A,730
+P0411,Product 0411,Beverages,Jamshedpur,1017,14,3,1370.15,Supplier A,5110
+P0412,Product 0412,Beverages,Mumbai,500,3,20,1949.69,Supplier A,1095
+P0413,Product 0413,Personal Care,Patna,102,23,6,845.49,Supplier D,8395
+P0414,Product 0414,Beverages,Chennai,4,15,3,1084.13,Supplier B,5475
+P0415,Product 0415,Food,Mumbai,280,10,13,984.49,Supplier B,3650
+P0416,Product 0416,Home Appliances,Chennai,75,13,9,232.43,Supplier D,4745
+P0417,Product 0417,Stationery,Bangalore,253,16,13,488.67,Supplier E,5840
+P0418,Product 0418,Food,Delhi,131,7,18,1064.72,Supplier C,2555
+P0419,Product 0419,Personal Care,Hyderabad,1177,8,3,153.4,Supplier E,2920
+P0420,Product 0420,Clothing,Delhi,114,11,7,1864.29,Supplier D,4015
+P0421,Product 0421,Stationery,Pune,752,7,11,265.21,Supplier D,2555
+P0422,Product 0422,Home Appliances,Pune,422,19,16,412.0,Supplier E,6935
+P0423,Product 0423,Healthcare,Mumbai,209,4,13,1535.34,Supplier A,1460
+P0424,Product 0424,Clothing,Bangalore,841,21,9,211.93,Supplier D,7665
+P0425,Product 0425,Electronics,Patna,1164,10,13,1802.55,Supplier E,3650
+P0426,Product 0426,Beverages,Hyderabad,948,14,20,1456.89,Supplier E,5110
+P0427,Product 0427,Healthcare,Bangalore,1170,5,11,155.87,Supplier C,1825
+P0428,Product 0428,Healthcare,Pune,708,10,18,1389.86,Supplier D,3650
+P0429,Product 0429,Food,Patna,808,19,16,1270.62,Supplier E,6935
+P0430,Product 0430,Home Appliances,Chennai,175,8,7,1519.55,Supplier E,2920
+P0431,Product 0431,Food,Delhi,1022,5,6,1659.83,Supplier E,1825
+P0432,Product 0432,Home Appliances,Ranchi,897,14,16,1442.33,Supplier E,5110
+P0433,Product 0433,Healthcare,Ranchi,304,5,5,1180.63,Supplier B,1825
+P0434,Product 0434,Beverages,Mumbai,425,9,8,658.48,Supplier D,3285
+P0435,Product 0435,Electronics,Kolkata,733,12,6,1400.6,Supplier C,4380
+P0436,Product 0436,Food,Ranchi,15,14,13,1914.8,Supplier E,5110
+P0437,Product 0437,Clothing,Delhi,981,16,7,1183.29,Supplier E,5840
+P0438,Product 0438,Stationery,Bangalore,336,17,14,1335.4,Supplier E,6205
+P0439,Product 0439,Food,Kolkata,89,21,19,885.51,Supplier C,7665
+P0440,Product 0440,Electronics,Pune,396,3,17,1517.12,Supplier C,1095
+P0441,Product 0441,Stationery,Chennai,1002,10,20,1995.38,Supplier A,3650
+P0442,Product 0442,Personal Care,Mumbai,329,2,2,337.57,Supplier D,730
+P0443,Product 0443,Beverages,Pune,647,2,10,420.76,Supplier C,730
+P0444,Product 0444,Electronics,Delhi,974,6,6,1088.09,Supplier C,2190
+P0445,Product 0445,Clothing,Ranchi,40,15,19,973.12,Supplier D,5475
+P0446,Product 0446,Home Appliances,Jamshedpur,911,22,15,1151.71,Supplier E,8030
+P0447,Product 0447,Personal Care,Pune,346,19,8,117.17,Supplier A,6935
+P0448,Product 0448,Stationery,Pune,834,16,12,820.47,Supplier C,5840
+P0449,Product 0449,Clothing,Chennai,225,19,13,1174.3,Supplier D,6935
+P0450,Product 0450,Personal Care,Ranchi,166,5,11,1178.68,Supplier E,1825
+P0451,Product 0451,Stationery,Patna,945,21,11,1321.52,Supplier D,7665
+P0452,Product 0452,Stationery,Jamshedpur,969,22,3,1446.03,Supplier D,8030
+P0453,Product 0453,Electronics,Jamshedpur,1177,4,10,1290.26,Supplier E,1460
+P0454,Product 0454,Food,Patna,812,12,8,1584.68,Supplier E,4380
+P0455,Product 0455,Clothing,Mumbai,559,21,17,1257.03,Supplier D,7665
+P0456,Product 0456,Clothing,Jamshedpur,233,12,18,1084.27,Supplier B,4380
+P0457,Product 0457,Beverages,Pune,354,21,16,1220.27,Supplier C,7665
+P0458,Product 0458,Home Appliances,Delhi,777,23,2,220.36,Supplier D,8395
+P0459,Product 0459,Healthcare,Patna,415,12,17,560.85,Supplier A,4380
+P0460,Product 0460,Food,Mumbai,580,3,9,1064.25,Supplier D,1095
+P0461,Product 0461,Home Appliances,Chennai,201,9,9,1748.51,Supplier C,3285
+P0462,Product 0462,Beverages,Kolkata,527,6,19,1364.52,Supplier E,2190
+P0463,Product 0463,Home Appliances,Jamshedpur,285,12,18,199.01,Supplier B,4380
+P0464,Product 0464,Electronics,Jamshedpur,134,15,2,1192.7,Supplier E,5475
+P0465,Product 0465,Food,Hyderabad,158,12,8,459.04,Supplier C,4380
+P0466,Product 0466,Stationery,Ranchi,621,6,16,1473.35,Supplier C,2190
+P0467,Product 0467,Beverages,Bangalore,439,8,12,1658.33,Supplier D,2920
+P0468,Product 0468,Clothing,Kolkata,119,17,6,1195.04,Supplier C,6205
+P0469,Product 0469,Beverages,Chennai,617,2,11,1190.9,Supplier E,730
+P0470,Product 0470,Stationery,Jamshedpur,197,6,18,690.41,Supplier A,2190
+P0471,Product 0471,Home Appliances,Hyderabad,18,22,6,903.58,Supplier D,8030
+P0472,Product 0472,Healthcare,Bangalore,159,4,16,1730.93,Supplier E,1460
+P0473,Product 0473,Electronics,Delhi,538,11,15,1452.17,Supplier B,4015
+P0474,Product 0474,Electronics,Patna,1144,6,18,1049.11,Supplier B,2190
+P0475,Product 0475,Home Appliances,Pune,290,4,7,749.1,Supplier C,1460
+P0476,Product 0476,Healthcare,Kolkata,341,11,6,119.75,Supplier D,4015
+P0477,Product 0477,Healthcare,Delhi,291,13,12,303.15,Supplier E,4745
+P0478,Product 0478,Food,Kolkata,426,6,12,402.19,Supplier D,2190
+P0479,Product 0479,Home Appliances,Patna,860,3,9,759.3,Supplier D,1095
+P0480,Product 0480,Food,Delhi,386,5,16,1889.4,Supplier C,1825
+P0481,Product 0481,Personal Care,Ranchi,789,16,17,1020.2,Supplier D,5840
+P0482,Product 0482,Healthcare,Jamshedpur,1077,21,6,484.98,Supplier B,7665
+P0483,Product 0483,Personal Care,Patna,1135,6,17,229.39,Supplier C,2190
+P0484,Product 0484,Healthcare,Ranchi,675,9,6,689.84,Supplier A,3285
+P0485,Product 0485,Electronics,Delhi,855,9,9,1635.15,Supplier A,3285
+P0486,Product 0486,Beverages,Hyderabad,1102,10,2,779.02,Supplier E,3650
+P0487,Product 0487,Personal Care,Ranchi,944,7,8,1549.56,Supplier E,2555
+P0488,Product 0488,Clothing,Jamshedpur,359,3,20,1609.36,Supplier C,1095
+P0489,Product 0489,Healthcare,Ranchi,158,14,10,239.43,Supplier A,5110
+P0490,Product 0490,Clothing,Mumbai,137,10,15,1225.15,Supplier A,3650
+P0491,Product 0491,Stationery,Patna,1058,9,4,1919.01,Supplier A,3285
+P0492,Product 0492,Healthcare,Delhi,667,8,14,816.23,Supplier D,2920
+P0493,Product 0493,Healthcare,Jamshedpur,355,23,9,120.87,Supplier B,8395
+P0494,Product 0494,Clothing,Kolkata,414,16,16,1848.14,Supplier B,5840
+P0495,Product 0495,Personal Care,Delhi,338,11,19,1769.66,Supplier E,4015
+P0496,Product 0496,Electronics,Delhi,962,6,12,1053.84,Supplier E,2190
+P0497,Product 0497,Food,Mumbai,734,20,3,1113.46,Supplier D,7300
+P0498,Product 0498,Personal Care,Chennai,1055,22,11,439.25,Supplier B,8030
+P0499,Product 0499,Stationery,Delhi,362,2,4,1642.51,Supplier C,730
+P0500,Product 0500,Electronics,Hyderabad,567,23,10,1007.23,Supplier B,8395
+P0501,Product 0501,Food,Mumbai,146,18,3,87.08,Supplier E,6570
+P0502,Product 0502,Home Appliances,Patna,1165,4,14,1372.37,Supplier A,1460
+P0503,Product 0503,Stationery,Patna,614,19,7,1901.98,Supplier D,6935
+P0504,Product 0504,Healthcare,Kolkata,663,4,5,1661.72,Supplier C,1460
+P0505,Product 0505,Personal Care,Mumbai,496,3,2,568.85,Supplier D,1095
+P0506,Product 0506,Electronics,Patna,325,4,18,125.58,Supplier C,1460
+P0507,Product 0507,Clothing,Pune,1138,12,17,1881.9,Supplier A,4380
+P0508,Product 0508,Beverages,Delhi,586,16,17,1875.38,Supplier D,5840
+P0509,Product 0509,Personal Care,Hyderabad,809,11,3,1074.18,Supplier D,4015
+P0510,Product 0510,Beverages,Bangalore,44,4,8,1291.79,Supplier C,1460
+P0511,Product 0511,Stationery,Kolkata,331,6,20,935.95,Supplier B,2190
+P0512,Product 0512,Home Appliances,Patna,964,21,12,851.14,Supplier B,7665
+P0513,Product 0513,Healthcare,Chennai,105,24,4,256.51,Supplier C,8760
+P0514,Product 0514,Healthcare,Kolkata,121,19,4,211.57,Supplier B,6935
+P0515,Product 0515,Stationery,Patna,971,4,6,480.81,Supplier B,1460
+P0516,Product 0516,Food,Pune,370,20,20,1676.55,Supplier B,7300
+P0517,Product 0517,Stationery,Delhi,328,17,5,308.75,Supplier A,6205
+P0518,Product 0518,Food,Jamshedpur,678,14,19,468.86,Supplier E,5110
+P0519,Product 0519,Electronics,Delhi,233,5,14,1106.26,Supplier B,1825
+P0520,Product 0520,Clothing,Delhi,51,24,19,445.96,Supplier A,8760
+P0521,Product 0521,Personal Care,Hyderabad,5,12,17,343.15,Supplier A,4380
+P0522,Product 0522,Beverages,Chennai,95,3,8,1135.37,Supplier E,1095
+P0523,Product 0523,Beverages,Ranchi,190,6,17,748.82,Supplier C,2190
+P0524,Product 0524,Healthcare,Ranchi,835,11,5,1259.8,Supplier B,4015
+P0525,Product 0525,Personal Care,Bangalore,357,3,7,1826.17,Supplier C,1095
+P0526,Product 0526,Personal Care,Jamshedpur,86,9,6,318.97,Supplier A,3285
+P0527,Product 0527,Stationery,Kolkata,17,12,4,1828.6,Supplier B,4380
+P0528,Product 0528,Beverages,Ranchi,572,23,3,1806.93,Supplier B,8395
+P0529,Product 0529,Stationery,Jamshedpur,1008,3,5,1661.59,Supplier E,1095
+P0530,Product 0530,Stationery,Pune,406,15,4,1269.95,Supplier A,5475
+P0531,Product 0531,Clothing,Jamshedpur,76,23,9,1247.89,Supplier C,8395
+P0532,Product 0532,Beverages,Jamshedpur,273,20,3,1285.64,Supplier D,7300
+P0533,Product 0533,Beverages,Pune,599,23,3,1387.18,Supplier E,8395
+P0534,Product 0534,Personal Care,Ranchi,226,5,20,52.63,Supplier C,1825
+P0535,Product 0535,Clothing,Hyderabad,1174,20,3,1917.02,Supplier B,7300
+P0536,Product 0536,Beverages,Jamshedpur,916,24,3,1179.5,Supplier B,8760
+P0537,Product 0537,Electronics,Ranchi,413,9,2,1567.3,Supplier B,3285
+P0538,Product 0538,Food,Ranchi,1141,13,4,767.02,Supplier D,4745
+P0539,Product 0539,Clothing,Chennai,390,14,12,44.55,Supplier B,5110
+P0540,Product 0540,Food,Bangalore,168,13,17,1029.27,Supplier D,4745
+P0541,Product 0541,Home Appliances,Delhi,1125,8,15,1024.24,Supplier D,2920
+P0542,Product 0542,Food,Patna,1151,24,13,885.24,Supplier E,8760
+P0543,Product 0543,Beverages,Jamshedpur,375,23,3,692.64,Supplier B,8395
+P0544,Product 0544,Beverages,Mumbai,713,10,16,514.66,Supplier E,3650
+P0545,Product 0545,Healthcare,Patna,207,20,2,1064.54,Supplier C,7300
+P0546,Product 0546,Food,Mumbai,769,11,13,763.05,Supplier D,4015
+P0547,Product 0547,Electronics,Bangalore,828,20,9,1940.47,Supplier D,7300
+P0548,Product 0548,Clothing,Hyderabad,851,15,18,362.4,Supplier E,5475
+P0549,Product 0549,Clothing,Delhi,682,12,7,652.94,Supplier C,4380
+P0550,Product 0550,Home Appliances,Jamshedpur,844,4,14,602.04,Supplier D,1460
+P0551,Product 0551,Healthcare,Patna,666,17,10,1095.75,Supplier B,6205
+P0552,Product 0552,Electronics,Hyderabad,983,9,11,1008.57,Supplier C,3285
+P0553,Product 0553,Healthcare,Mumbai,215,6,19,1294.61,Supplier C,2190
+P0554,Product 0554,Personal Care,Bangalore,580,6,15,1901.0,Supplier D,2190
+P0555,Product 0555,Stationery,Delhi,499,24,9,584.74,Supplier D,8760
+P0556,Product 0556,Clothing,Ranchi,640,4,10,1391.69,Supplier A,1460
+P0557,Product 0557,Home Appliances,Hyderabad,170,20,15,69.58,Supplier E,7300
+P0558,Product 0558,Stationery,Chennai,388,21,8,539.53,Supplier D,7665
+P0559,Product 0559,Healthcare,Pune,1144,2,5,938.17,Supplier A,730
+P0560,Product 0560,Healthcare,Hyderabad,126,15,10,81.37,Supplier E,5475
+P0561,Product 0561,Clothing,Patna,762,15,3,1242.99,Supplier D,5475
+P0562,Product 0562,Food,Patna,797,10,5,1363.06,Supplier A,3650
+P0563,Product 0563,Electronics,Patna,569,17,9,1498.53,Supplier C,6205
+P0564,Product 0564,Beverages,Pune,40,11,17,1042.82,Supplier E,4015
+P0565,Product 0565,Stationery,Mumbai,41,12,16,1215.81,Supplier B,4380
+P0566,Product 0566,Beverages,Delhi,330,11,6,804.21,Supplier E,4015
+P0567,Product 0567,Beverages,Pune,123,20,10,101.68,Supplier C,7300
+P0568,Product 0568,Beverages,Bangalore,113,16,4,217.9,Supplier B,5840
+P0569,Product 0569,Home Appliances,Pune,192,10,16,1316.89,Supplier B,3650
+P0570,Product 0570,Clothing,Pune,228,23,6,1991.2,Supplier C,8395
+P0571,Product 0571,Stationery,Jamshedpur,1006,20,17,51.29,Supplier D,7300
+P0572,Product 0572,Electronics,Kolkata,766,23,17,1124.02,Supplier E,8395
+P0573,Product 0573,Personal Care,Chennai,36,18,15,1507.0,Supplier A,6570
+P0574,Product 0574,Food,Hyderabad,754,11,8,1657.01,Supplier E,4015
+P0575,Product 0575,Food,Ranchi,164,19,20,1099.51,Supplier C,6935
+P0576,Product 0576,Personal Care,Kolkata,505,9,15,1247.43,Supplier A,3285
+P0577,Product 0577,Stationery,Mumbai,45,8,14,1399.52,Supplier E,2920
+P0578,Product 0578,Clothing,Chennai,108,12,18,1720.75,Supplier B,4380
+P0579,Product 0579,Stationery,Ranchi,159,24,18,262.13,Supplier D,8760
+P0580,Product 0580,Food,Bangalore,520,15,3,1853.84,Supplier D,5475
+P0581,Product 0581,Food,Patna,555,10,18,71.51,Supplier A,3650
+P0582,Product 0582,Healthcare,Patna,423,12,16,1675.68,Supplier B,4380
+P0583,Product 0583,Food,Mumbai,744,8,5,171.95,Supplier D,2920
+P0584,Product 0584,Food,Delhi,864,17,7,405.36,Supplier B,6205
+P0585,Product 0585,Electronics,Bangalore,874,10,16,27.71,Supplier A,3650
+P0586,Product 0586,Stationery,Kolkata,694,14,6,901.61,Supplier A,5110
+P0587,Product 0587,Home Appliances,Hyderabad,654,10,10,682.03,Supplier E,3650
+P0588,Product 0588,Food,Jamshedpur,589,9,15,348.67,Supplier A,3285
+P0589,Product 0589,Healthcare,Hyderabad,285,24,14,913.16,Supplier A,8760
+P0590,Product 0590,Healthcare,Jamshedpur,584,9,19,816.69,Supplier C,3285
+P0591,Product 0591,Healthcare,Chennai,12,3,4,1539.97,Supplier A,1095
+P0592,Product 0592,Stationery,Kolkata,1159,10,7,1788.4,Supplier D,3650
+P0593,Product 0593,Beverages,Kolkata,444,14,20,1312.08,Supplier C,5110
+P0594,Product 0594,Stationery,Jamshedpur,907,4,12,266.33,Supplier D,1460
+P0595,Product 0595,Personal Care,Chennai,1148,9,6,604.87,Supplier C,3285
+P0596,Product 0596,Healthcare,Ranchi,596,5,7,1828.37,Supplier D,1825
+P0597,Product 0597,Clothing,Bangalore,1034,13,8,195.69,Supplier D,4745
+P0598,Product 0598,Healthcare,Chennai,575,18,12,825.57,Supplier C,6570
+P0599,Product 0599,Home Appliances,Hyderabad,158,24,7,1886.16,Supplier A,8760
+P0600,Product 0600,Home Appliances,Chennai,31,10,13,1902.32,Supplier B,3650
+P0601,Product 0601,Clothing,Kolkata,162,21,10,834.18,Supplier A,7665
+P0602,Product 0602,Healthcare,Chennai,1131,6,13,1341.45,Supplier A,2190
+P0603,Product 0603,Home Appliances,Hyderabad,570,19,4,924.36,Supplier B,6935
+P0604,Product 0604,Beverages,Kolkata,383,14,13,1511.85,Supplier B,5110
+P0605,Product 0605,Healthcare,Ranchi,535,19,19,82.53,Supplier A,6935
+P0606,Product 0606,Clothing,Hyderabad,307,19,4,305.43,Supplier B,6935
+P0607,Product 0607,Personal Care,Ranchi,1044,14,8,1236.11,Supplier C,5110
+P0608,Product 0608,Clothing,Mumbai,1199,7,15,480.45,Supplier A,2555
+P0609,Product 0609,Stationery,Patna,101,14,13,1338.78,Supplier B,5110
+P0610,Product 0610,Healthcare,Ranchi,862,21,14,715.42,Supplier A,7665
+P0611,Product 0611,Healthcare,Chennai,402,24,12,1775.56,Supplier A,8760
+P0612,Product 0612,Electronics,Ranchi,56,23,14,1642.13,Supplier A,8395
+P0613,Product 0613,Healthcare,Bangalore,1106,6,13,995.82,Supplier C,2190
+P0614,Product 0614,Electronics,Bangalore,74,15,3,1550.33,Supplier D,5475
+P0615,Product 0615,Home Appliances,Jamshedpur,247,4,16,556.85,Supplier D,1460
+P0616,Product 0616,Home Appliances,Ranchi,30,17,10,998.63,Supplier D,6205
+P0617,Product 0617,Beverages,Chennai,565,24,2,411.01,Supplier D,8760
+P0618,Product 0618,Personal Care,Mumbai,719,3,9,1724.55,Supplier E,1095
+P0619,Product 0619,Food,Ranchi,384,17,10,1649.67,Supplier B,6205
+P0620,Product 0620,Beverages,Pune,85,23,3,1806.26,Supplier D,8395
+P0621,Product 0621,Electronics,Patna,139,21,20,1757.4,Supplier E,7665
+P0622,Product 0622,Electronics,Jamshedpur,1120,11,6,1920.0,Supplier C,4015
+P0623,Product 0623,Beverages,Pune,967,4,8,472.11,Supplier E,1460
+P0624,Product 0624,Electronics,Jamshedpur,1124,23,10,1865.01,Supplier A,8395
+P0625,Product 0625,Clothing,Mumbai,636,23,17,1151.0,Supplier E,8395
+P0626,Product 0626,Beverages,Pune,655,15,16,856.54,Supplier C,5475
+P0627,Product 0627,Personal Care,Mumbai,943,24,16,1129.54,Supplier B,8760
+P0628,Product 0628,Personal Care,Mumbai,739,2,6,698.35,Supplier A,730
+P0629,Product 0629,Clothing,Kolkata,523,16,18,591.33,Supplier D,5840
+P0630,Product 0630,Personal Care,Ranchi,350,2,17,497.8,Supplier C,730
+P0631,Product 0631,Home Appliances,Mumbai,582,23,10,183.21,Supplier B,8395
+P0632,Product 0632,Personal Care,Hyderabad,76,17,12,1003.2,Supplier B,6205
+P0633,Product 0633,Electronics,Jamshedpur,230,23,2,1777.77,Supplier E,8395
+P0634,Product 0634,Electronics,Hyderabad,884,14,16,1267.7,Supplier C,5110
+P0635,Product 0635,Beverages,Delhi,1041,3,20,1051.53,Supplier A,1095
+P0636,Product 0636,Home Appliances,Mumbai,122,2,10,868.61,Supplier B,730
+P0637,Product 0637,Beverages,Ranchi,116,9,12,939.52,Supplier A,3285
+P0638,Product 0638,Personal Care,Bangalore,102,19,11,434.37,Supplier D,6935
+P0639,Product 0639,Healthcare,Ranchi,949,5,3,1649.41,Supplier E,1825
+P0640,Product 0640,Stationery,Patna,373,21,13,412.8,Supplier E,7665
+P0641,Product 0641,Home Appliances,Chennai,392,7,15,1438.91,Supplier D,2555
+P0642,Product 0642,Stationery,Jamshedpur,14,13,19,1524.77,Supplier D,4745
+P0643,Product 0643,Healthcare,Delhi,1167,6,19,1158.24,Supplier C,2190
+P0644,Product 0644,Electronics,Mumbai,520,12,11,1728.59,Supplier D,4380
+P0645,Product 0645,Healthcare,Ranchi,956,12,20,596.28,Supplier A,4380
+P0646,Product 0646,Personal Care,Patna,849,2,12,1765.6,Supplier C,730
+P0647,Product 0647,Electronics,Kolkata,170,15,14,1464.23,Supplier C,5475
+P0648,Product 0648,Clothing,Bangalore,961,20,13,1601.52,Supplier A,7300
+P0649,Product 0649,Stationery,Pune,660,23,20,1335.87,Supplier C,8395
+P0650,Product 0650,Healthcare,Hyderabad,725,9,16,1695.76,Supplier D,3285
+P0651,Product 0651,Electronics,Ranchi,240,22,4,1986.34,Supplier B,8030
+P0652,Product 0652,Home Appliances,Jamshedpur,1016,22,3,851.92,Supplier C,8030
+P0653,Product 0653,Beverages,Jamshedpur,1118,24,9,1631.55,Supplier B,8760
+P0654,Product 0654,Healthcare,Mumbai,487,10,11,1494.27,Supplier B,3650
+P0655,Product 0655,Clothing,Ranchi,110,21,14,916.68,Supplier A,7665
+P0656,Product 0656,Clothing,Patna,1018,14,11,1855.36,Supplier B,5110
+P0657,Product 0657,Healthcare,Hyderabad,1064,3,11,800.96,Supplier E,1095
+P0658,Product 0658,Home Appliances,Hyderabad,607,8,19,1139.62,Supplier E,2920
+P0659,Product 0659,Food,Hyderabad,694,17,8,229.77,Supplier D,6205
+P0660,Product 0660,Personal Care,Patna,267,5,11,467.03,Supplier D,1825
+P0661,Product 0661,Beverages,Bangalore,80,11,12,1684.58,Supplier D,4015
+P0662,Product 0662,Home Appliances,Bangalore,1132,19,10,805.17,Supplier C,6935
+P0663,Product 0663,Food,Ranchi,579,5,20,800.29,Supplier C,1825
+P0664,Product 0664,Beverages,Mumbai,329,13,20,507.04,Supplier D,4745
+P0665,Product 0665,Clothing,Mumbai,831,6,11,993.39,Supplier D,2190
+P0666,Product 0666,Home Appliances,Kolkata,31,14,10,1615.52,Supplier C,5110
+P0667,Product 0667,Clothing,Chennai,95,7,13,1792.42,Supplier C,2555
+P0668,Product 0668,Healthcare,Bangalore,291,24,5,158.83,Supplier C,8760
+P0669,Product 0669,Stationery,Mumbai,540,3,10,1158.15,Supplier B,1095
+P0670,Product 0670,Beverages,Chennai,440,24,6,945.2,Supplier B,8760
+P0671,Product 0671,Stationery,Chennai,224,20,4,1236.28,Supplier A,7300
+P0672,Product 0672,Clothing,Mumbai,421,21,3,905.61,Supplier C,7665
+P0673,Product 0673,Home Appliances,Patna,400,21,13,809.32,Supplier D,7665
+P0674,Product 0674,Food,Chennai,629,6,2,954.32,Supplier D,2190
+P0675,Product 0675,Clothing,Chennai,675,23,14,1172.36,Supplier E,8395
+P0676,Product 0676,Home Appliances,Pune,1059,15,10,1011.95,Supplier A,5475
+P0677,Product 0677,Clothing,Ranchi,968,24,8,954.85,Supplier D,8760
+P0678,Product 0678,Food,Delhi,350,22,16,1639.31,Supplier D,8030
+P0679,Product 0679,Clothing,Pune,1083,15,12,1496.38,Supplier C,5475
+P0680,Product 0680,Stationery,Mumbai,624,10,15,695.93,Supplier B,3650
+P0681,Product 0681,Home Appliances,Pune,225,4,15,1605.14,Supplier B,1460
+P0682,Product 0682,Beverages,Jamshedpur,408,4,2,1710.23,Supplier D,1460
+P0683,Product 0683,Stationery,Jamshedpur,890,10,6,323.91,Supplier E,3650
+P0684,Product 0684,Stationery,Chennai,986,20,12,1173.71,Supplier D,7300
+P0685,Product 0685,Beverages,Kolkata,448,13,20,584.92,Supplier C,4745
+P0686,Product 0686,Healthcare,Mumbai,189,13,4,1483.56,Supplier D,4745
+P0687,Product 0687,Electronics,Delhi,230,7,4,492.79,Supplier A,2555
+P0688,Product 0688,Clothing,Delhi,124,14,19,1349.38,Supplier D,5110
+P0689,Product 0689,Electronics,Pune,838,16,20,525.15,Supplier A,5840
+P0690,Product 0690,Healthcare,Jamshedpur,603,24,5,1032.06,Supplier E,8760
+P0691,Product 0691,Stationery,Chennai,541,18,9,1898.32,Supplier E,6570
+P0692,Product 0692,Healthcare,Hyderabad,806,15,13,774.99,Supplier C,5475
+P0693,Product 0693,Stationery,Bangalore,994,22,5,1753.96,Supplier B,8030
+P0694,Product 0694,Stationery,Kolkata,954,11,8,1974.15,Supplier D,4015
+P0695,Product 0695,Food,Ranchi,164,23,9,1752.2,Supplier D,8395
+P0696,Product 0696,Personal Care,Bangalore,707,10,14,348.41,Supplier D,3650
+P0697,Product 0697,Home Appliances,Delhi,1059,4,7,1642.92,Supplier C,1460
+P0698,Product 0698,Clothing,Ranchi,928,11,9,83.66,Supplier B,4015
+P0699,Product 0699,Food,Kolkata,395,4,7,798.74,Supplier A,1460
+P0700,Product 0700,Food,Pune,471,4,16,1744.05,Supplier B,1460
+P0701,Product 0701,Clothing,Patna,1068,22,4,1383.73,Supplier C,8030
+P0702,Product 0702,Clothing,Ranchi,39,20,6,1074.83,Supplier C,7300
+P0703,Product 0703,Beverages,Bangalore,630,7,6,787.97,Supplier C,2555
+P0704,Product 0704,Beverages,Ranchi,139,21,19,1628.35,Supplier B,7665
+P0705,Product 0705,Beverages,Pune,1073,3,19,1424.93,Supplier E,1095
+P0706,Product 0706,Clothing,Hyderabad,46,8,11,947.44,Supplier B,2920
+P0707,Product 0707,Food,Pune,28,18,4,1787.12,Supplier E,6570
+P0708,Product 0708,Clothing,Pune,394,8,16,475.3,Supplier B,2920
+P0709,Product 0709,Electronics,Patna,240,18,11,357.38,Supplier C,6570
+P0710,Product 0710,Electronics,Patna,594,22,18,1292.75,Supplier D,8030
+P0711,Product 0711,Home Appliances,Kolkata,359,3,8,1944.55,Supplier B,1095
+P0712,Product 0712,Clothing,Delhi,427,2,20,509.57,Supplier B,730
+P0713,Product 0713,Home Appliances,Hyderabad,677,23,17,514.35,Supplier B,8395
+P0714,Product 0714,Healthcare,Chennai,672,13,6,296.21,Supplier E,4745
+P0715,Product 0715,Stationery,Bangalore,1121,13,15,1723.92,Supplier A,4745
+P0716,Product 0716,Healthcare,Hyderabad,576,12,7,468.27,Supplier C,4380
+P0717,Product 0717,Clothing,Bangalore,677,11,8,1016.29,Supplier D,4015
+P0718,Product 0718,Electronics,Kolkata,813,17,6,1981.93,Supplier D,6205
+P0719,Product 0719,Beverages,Delhi,209,15,14,44.04,Supplier C,5475
+P0720,Product 0720,Clothing,Mumbai,800,5,6,1121.84,Supplier A,1825
+P0721,Product 0721,Beverages,Jamshedpur,1034,16,14,1034.33,Supplier A,5840
+P0722,Product 0722,Stationery,Chennai,381,17,13,1618.75,Supplier C,6205
+P0723,Product 0723,Healthcare,Bangalore,214,4,16,723.46,Supplier E,1460
+P0724,Product 0724,Food,Chennai,415,10,20,832.48,Supplier A,3650
+P0725,Product 0725,Healthcare,Mumbai,330,20,2,352.52,Supplier E,7300
+P0726,Product 0726,Food,Chennai,702,16,20,1486.81,Supplier D,5840
+P0727,Product 0727,Home Appliances,Pune,1036,5,4,1573.72,Supplier A,1825
+P0728,Product 0728,Food,Mumbai,715,2,12,290.59,Supplier B,730
+P0729,Product 0729,Electronics,Delhi,150,15,8,799.05,Supplier B,5475
+P0730,Product 0730,Home Appliances,Ranchi,377,12,14,1787.95,Supplier E,4380
+P0731,Product 0731,Home Appliances,Chennai,827,24,15,25.36,Supplier C,8760
+P0732,Product 0732,Electronics,Pune,396,14,18,611.54,Supplier B,5110
+P0733,Product 0733,Stationery,Bangalore,703,23,9,1118.98,Supplier B,8395
+P0734,Product 0734,Healthcare,Hyderabad,832,6,19,681.51,Supplier C,2190
+P0735,Product 0735,Beverages,Hyderabad,395,12,8,558.65,Supplier A,4380
+P0736,Product 0736,Home Appliances,Chennai,776,5,5,930.87,Supplier B,1825
+P0737,Product 0737,Home Appliances,Mumbai,477,15,9,379.42,Supplier A,5475
+P0738,Product 0738,Personal Care,Jamshedpur,162,6,12,1068.66,Supplier D,2190
+P0739,Product 0739,Home Appliances,Jamshedpur,446,13,14,1419.26,Supplier D,4745
+P0740,Product 0740,Stationery,Patna,529,9,17,1159.08,Supplier C,3285
+P0741,Product 0741,Healthcare,Delhi,2,6,6,204.36,Supplier A,2190
+P0742,Product 0742,Healthcare,Chennai,1071,4,7,1691.93,Supplier B,1460
+P0743,Product 0743,Home Appliances,Delhi,633,13,19,366.46,Supplier E,4745
+P0744,Product 0744,Personal Care,Jamshedpur,43,23,10,1534.33,Supplier B,8395
+P0745,Product 0745,Healthcare,Patna,1041,6,6,733.92,Supplier A,2190
+P0746,Product 0746,Personal Care,Pune,1026,11,20,1569.87,Supplier A,4015
+P0747,Product 0747,Clothing,Pune,14,7,10,428.42,Supplier E,2555
+P0748,Product 0748,Personal Care,Kolkata,195,20,20,389.59,Supplier A,7300
+P0749,Product 0749,Personal Care,Hyderabad,436,11,19,1004.11,Supplier C,4015
+P0750,Product 0750,Beverages,Chennai,608,24,19,85.21,Supplier E,8760
+P0751,Product 0751,Stationery,Pune,870,7,13,466.09,Supplier D,2555
+P0752,Product 0752,Beverages,Hyderabad,509,3,17,1453.54,Supplier C,1095
+P0753,Product 0753,Food,Bangalore,734,15,20,1678.02,Supplier B,5475
+P0754,Product 0754,Stationery,Kolkata,12,16,7,179.96,Supplier A,5840
+P0755,Product 0755,Clothing,Bangalore,790,24,2,1766.51,Supplier A,8760
+P0756,Product 0756,Electronics,Kolkata,1098,22,8,1599.08,Supplier E,8030
+P0757,Product 0757,Home Appliances,Kolkata,631,22,14,1741.97,Supplier A,8030
+P0758,Product 0758,Electronics,Bangalore,545,16,12,1402.89,Supplier A,5840
+P0759,Product 0759,Beverages,Mumbai,356,10,3,1354.82,Supplier E,3650
+P0760,Product 0760,Home Appliances,Mumbai,1145,11,12,1059.68,Supplier C,4015
+P0761,Product 0761,Beverages,Kolkata,39,5,5,1312.52,Supplier B,1825
+P0762,Product 0762,Clothing,Delhi,344,11,11,1839.84,Supplier D,4015
+P0763,Product 0763,Stationery,Jamshedpur,166,10,12,219.03,Supplier C,3650
+P0764,Product 0764,Stationery,Bangalore,1039,2,14,645.21,Supplier E,730
+P0765,Product 0765,Personal Care,Mumbai,579,6,9,163.46,Supplier C,2190
+P0766,Product 0766,Healthcare,Pune,1106,14,9,1890.71,Supplier D,5110
+P0767,Product 0767,Clothing,Mumbai,798,10,14,901.63,Supplier E,3650
+P0768,Product 0768,Electronics,Delhi,668,24,16,1357.18,Supplier C,8760
+P0769,Product 0769,Beverages,Jamshedpur,620,13,17,1685.42,Supplier B,4745
+P0770,Product 0770,Electronics,Ranchi,243,24,8,1982.18,Supplier E,8760
+P0771,Product 0771,Home Appliances,Kolkata,674,17,10,340.33,Supplier B,6205
+P0772,Product 0772,Stationery,Kolkata,822,2,8,1603.03,Supplier A,730
+P0773,Product 0773,Food,Kolkata,1158,6,12,1777.1,Supplier C,2190
+P0774,Product 0774,Home Appliances,Kolkata,658,18,4,116.77,Supplier E,6570
+P0775,Product 0775,Healthcare,Chennai,1126,14,10,1513.1,Supplier A,5110
+P0776,Product 0776,Stationery,Ranchi,1133,8,5,722.36,Supplier E,2920
+P0777,Product 0777,Electronics,Kolkata,627,14,12,1304.22,Supplier E,5110
+P0778,Product 0778,Food,Ranchi,527,22,18,1037.82,Supplier E,8030
+P0779,Product 0779,Personal Care,Kolkata,171,10,20,534.29,Supplier C,3650
+P0780,Product 0780,Healthcare,Bangalore,322,3,10,287.74,Supplier B,1095
+P0781,Product 0781,Stationery,Jamshedpur,1054,9,3,251.56,Supplier C,3285
+P0782,Product 0782,Home Appliances,Kolkata,165,23,6,224.58,Supplier A,8395
+P0783,Product 0783,Food,Jamshedpur,476,19,3,1282.82,Supplier E,6935
+P0784,Product 0784,Food,Pune,838,21,16,715.79,Supplier D,7665
+P0785,Product 0785,Electronics,Chennai,288,22,20,448.93,Supplier C,8030
+P0786,Product 0786,Clothing,Patna,1168,4,12,1389.93,Supplier C,1460
+P0787,Product 0787,Food,Ranchi,779,8,5,1379.96,Supplier D,2920
+P0788,Product 0788,Home Appliances,Jamshedpur,34,3,2,1087.55,Supplier C,1095
+P0789,Product 0789,Clothing,Delhi,296,2,20,1871.22,Supplier E,730
+P0790,Product 0790,Food,Chennai,888,21,8,783.12,Supplier E,7665
+P0791,Product 0791,Food,Mumbai,1035,23,4,1675.01,Supplier E,8395
+P0792,Product 0792,Electronics,Hyderabad,1112,5,5,168.78,Supplier D,1825
+P0793,Product 0793,Home Appliances,Kolkata,1021,18,6,1484.87,Supplier D,6570
+P0794,Product 0794,Healthcare,Patna,89,14,14,1977.13,Supplier B,5110
+P0795,Product 0795,Electronics,Delhi,875,3,18,1696.26,Supplier A,1095
+P0796,Product 0796,Personal Care,Patna,132,23,7,1167.74,Supplier C,8395
+P0797,Product 0797,Stationery,Pune,91,22,15,1261.0,Supplier E,8030
+P0798,Product 0798,Electronics,Ranchi,830,15,3,719.51,Supplier A,5475
+P0799,Product 0799,Personal Care,Delhi,573,18,2,1365.38,Supplier C,6570
+P0800,Product 0800,Electronics,Mumbai,777,11,3,1545.38,Supplier A,4015
+P0801,Product 0801,Food,Jamshedpur,1021,20,19,1996.49,Supplier C,7300
+P0802,Product 0802,Personal Care,Delhi,82,12,13,995.08,Supplier A,4380
+P0803,Product 0803,Clothing,Delhi,633,24,17,141.38,Supplier D,8760
+P0804,Product 0804,Stationery,Patna,1001,3,2,1199.8,Supplier E,1095
+P0805,Product 0805,Home Appliances,Ranchi,528,5,2,255.67,Supplier D,1825
+P0806,Product 0806,Healthcare,Jamshedpur,628,24,18,504.63,Supplier D,8760
+P0807,Product 0807,Clothing,Jamshedpur,597,8,3,670.98,Supplier B,2920
+P0808,Product 0808,Food,Delhi,1088,9,4,1467.44,Supplier C,3285
+P0809,Product 0809,Electronics,Jamshedpur,59,20,11,383.94,Supplier A,7300
+P0810,Product 0810,Stationery,Pune,1053,6,13,348.19,Supplier B,2190
+P0811,Product 0811,Food,Patna,979,13,6,109.03,Supplier C,4745
+P0812,Product 0812,Stationery,Bangalore,975,8,10,1749.02,Supplier D,2920
+P0813,Product 0813,Home Appliances,Bangalore,494,6,14,1393.14,Supplier A,2190
+P0814,Product 0814,Personal Care,Delhi,619,24,10,99.09,Supplier E,8760
+P0815,Product 0815,Healthcare,Hyderabad,442,6,9,76.02,Supplier C,2190
+P0816,Product 0816,Healthcare,Ranchi,302,4,3,1126.18,Supplier E,1460
+P0817,Product 0817,Food,Patna,1050,17,10,579.42,Supplier C,6205
+P0818,Product 0818,Food,Patna,607,21,17,1201.52,Supplier C,7665
+P0819,Product 0819,Home Appliances,Ranchi,868,4,13,880.52,Supplier D,1460
+P0820,Product 0820,Stationery,Patna,120,18,18,1848.16,Supplier E,6570
+P0821,Product 0821,Food,Kolkata,946,14,4,589.86,Supplier A,5110
+P0822,Product 0822,Home Appliances,Chennai,790,21,2,1364.71,Supplier C,7665
+P0823,Product 0823,Beverages,Kolkata,1197,4,12,127.03,Supplier A,1460
+P0824,Product 0824,Home Appliances,Hyderabad,160,24,5,1912.6,Supplier C,8760
+P0825,Product 0825,Clothing,Chennai,648,16,13,1961.9,Supplier E,5840
+P0826,Product 0826,Food,Pune,613,21,19,1483.37,Supplier E,7665
+P0827,Product 0827,Home Appliances,Ranchi,646,10,8,941.12,Supplier B,3650
+P0828,Product 0828,Stationery,Pune,65,23,12,455.59,Supplier B,8395
+P0829,Product 0829,Healthcare,Bangalore,567,16,14,1628.78,Supplier C,5840
+P0830,Product 0830,Food,Pune,359,4,4,1477.98,Supplier B,1460
+P0831,Product 0831,Beverages,Kolkata,740,23,19,459.47,Supplier A,8395
+P0832,Product 0832,Beverages,Pune,278,20,5,913.41,Supplier B,7300
+P0833,Product 0833,Electronics,Mumbai,522,8,17,936.34,Supplier C,2920
+P0834,Product 0834,Beverages,Jamshedpur,744,14,14,1656.29,Supplier C,5110
+P0835,Product 0835,Healthcare,Delhi,76,10,4,1374.01,Supplier E,3650
+P0836,Product 0836,Healthcare,Ranchi,944,14,15,1293.47,Supplier C,5110
+P0837,Product 0837,Healthcare,Pune,858,24,5,1306.66,Supplier B,8760
+P0838,Product 0838,Beverages,Kolkata,68,22,13,555.53,Supplier D,8030
+P0839,Product 0839,Food,Patna,77,6,20,755.99,Supplier D,2190
+P0840,Product 0840,Stationery,Mumbai,1020,24,20,110.41,Supplier C,8760
+P0841,Product 0841,Personal Care,Delhi,339,12,18,1578.14,Supplier C,4380
+P0842,Product 0842,Home Appliances,Jamshedpur,1032,18,11,877.34,Supplier B,6570
+P0843,Product 0843,Stationery,Hyderabad,599,19,12,887.71,Supplier E,6935
+P0844,Product 0844,Food,Hyderabad,410,13,7,505.81,Supplier E,4745
+P0845,Product 0845,Food,Chennai,328,12,19,434.67,Supplier A,4380
+P0846,Product 0846,Food,Bangalore,790,12,11,1183.89,Supplier B,4380
+P0847,Product 0847,Beverages,Delhi,131,21,16,480.45,Supplier B,7665
+P0848,Product 0848,Food,Mumbai,483,10,8,147.13,Supplier E,3650
+P0849,Product 0849,Healthcare,Mumbai,415,8,16,1539.66,Supplier A,2920
+P0850,Product 0850,Clothing,Ranchi,185,10,6,765.41,Supplier B,3650
+P0851,Product 0851,Stationery,Jamshedpur,423,6,15,772.87,Supplier B,2190
+P0852,Product 0852,Healthcare,Patna,634,11,2,874.01,Supplier C,4015
+P0853,Product 0853,Stationery,Delhi,813,4,3,1633.79,Supplier B,1460
+P0854,Product 0854,Beverages,Ranchi,103,4,8,655.26,Supplier C,1460
+P0855,Product 0855,Personal Care,Ranchi,1046,18,11,1520.91,Supplier D,6570
+P0856,Product 0856,Healthcare,Hyderabad,1054,3,15,1880.3,Supplier E,1095
+P0857,Product 0857,Beverages,Kolkata,830,15,8,1328.52,Supplier A,5475
+P0858,Product 0858,Food,Mumbai,1109,19,2,874.73,Supplier A,6935
+P0859,Product 0859,Home Appliances,Mumbai,513,18,8,1500.62,Supplier A,6570
+P0860,Product 0860,Healthcare,Chennai,985,12,10,926.64,Supplier E,4380
+P0861,Product 0861,Stationery,Chennai,872,6,12,840.57,Supplier D,2190
+P0862,Product 0862,Stationery,Patna,675,23,14,1060.06,Supplier C,8395
+P0863,Product 0863,Food,Hyderabad,215,21,6,649.09,Supplier D,7665
+P0864,Product 0864,Healthcare,Kolkata,669,16,13,226.42,Supplier C,5840
+P0865,Product 0865,Healthcare,Hyderabad,1081,3,14,841.41,Supplier B,1095
+P0866,Product 0866,Home Appliances,Delhi,1181,2,16,265.24,Supplier C,730
+P0867,Product 0867,Healthcare,Ranchi,537,9,11,832.67,Supplier D,3285
+P0868,Product 0868,Healthcare,Chennai,297,5,17,1122.73,Supplier A,1825
+P0869,Product 0869,Electronics,Jamshedpur,897,21,6,1862.81,Supplier D,7665
+P0870,Product 0870,Food,Chennai,91,6,15,91.72,Supplier C,2190
+P0871,Product 0871,Electronics,Jamshedpur,181,8,2,1250.49,Supplier A,2920
+P0872,Product 0872,Beverages,Patna,674,24,3,926.32,Supplier B,8760
+P0873,Product 0873,Food,Bangalore,1188,20,18,60.12,Supplier C,7300
+P0874,Product 0874,Food,Pune,394,7,11,514.11,Supplier B,2555
+P0875,Product 0875,Home Appliances,Delhi,531,10,13,254.6,Supplier B,3650
+P0876,Product 0876,Clothing,Ranchi,386,13,13,449.25,Supplier D,4745
+P0877,Product 0877,Clothing,Patna,528,17,15,563.65,Supplier C,6205
+P0878,Product 0878,Home Appliances,Hyderabad,8,23,6,814.59,Supplier C,8395
+P0879,Product 0879,Clothing,Chennai,713,22,5,1067.5,Supplier D,8030
+P0880,Product 0880,Home Appliances,Ranchi,715,24,2,21.96,Supplier A,8760
+P0881,Product 0881,Food,Kolkata,378,2,18,340.5,Supplier B,730
+P0882,Product 0882,Healthcare,Patna,316,7,6,205.26,Supplier A,2555
+P0883,Product 0883,Electronics,Ranchi,913,14,12,1108.35,Supplier E,5110
+P0884,Product 0884,Beverages,Hyderabad,225,3,10,671.57,Supplier A,1095
+P0885,Product 0885,Healthcare,Bangalore,56,10,5,1105.83,Supplier E,3650
+P0886,Product 0886,Home Appliances,Ranchi,48,5,9,459.21,Supplier A,1825
+P0887,Product 0887,Food,Bangalore,1058,23,3,67.97,Supplier B,8395
+P0888,Product 0888,Beverages,Delhi,437,3,5,1883.91,Supplier D,1095
+P0889,Product 0889,Food,Jamshedpur,122,5,4,234.45,Supplier E,1825
+P0890,Product 0890,Personal Care,Delhi,1054,6,17,271.18,Supplier A,2190
+P0891,Product 0891,Food,Ranchi,178,5,12,310.16,Supplier B,1825
+P0892,Product 0892,Home Appliances,Patna,404,15,19,1962.93,Supplier E,5475
+P0893,Product 0893,Clothing,Hyderabad,24,10,10,1242.97,Supplier B,3650
+P0894,Product 0894,Stationery,Chennai,814,22,5,1228.37,Supplier B,8030
+P0895,Product 0895,Home Appliances,Ranchi,839,7,13,1973.66,Supplier D,2555
+P0896,Product 0896,Clothing,Hyderabad,907,14,19,195.11,Supplier A,5110
+P0897,Product 0897,Clothing,Mumbai,315,17,12,1949.51,Supplier E,6205
+P0898,Product 0898,Food,Hyderabad,393,16,2,423.95,Supplier E,5840
+P0899,Product 0899,Food,Chennai,1125,20,7,1253.68,Supplier E,7300
+P0900,Product 0900,Clothing,Kolkata,985,6,19,851.77,Supplier B,2190
+P0901,Product 0901,Food,Mumbai,44,13,11,780.22,Supplier A,4745
+P0902,Product 0902,Food,Mumbai,830,20,20,1863.86,Supplier C,7300
+P0903,Product 0903,Beverages,Chennai,975,21,11,315.47,Supplier B,7665
+P0904,Product 0904,Stationery,Patna,671,16,2,1994.2,Supplier E,5840
+P0905,Product 0905,Electronics,Kolkata,767,16,18,770.67,Supplier D,5840
+P0906,Product 0906,Home Appliances,Patna,1,21,16,1304.57,Supplier E,7665
+P0907,Product 0907,Electronics,Patna,36,16,15,1936.46,Supplier D,5840
+P0908,Product 0908,Beverages,Ranchi,42,23,20,134.05,Supplier D,8395
+P0909,Product 0909,Personal Care,Jamshedpur,190,4,5,1847.27,Supplier A,1460
+P0910,Product 0910,Food,Pune,1189,10,19,1144.27,Supplier A,3650
+P0911,Product 0911,Healthcare,Jamshedpur,761,4,6,1414.71,Supplier A,1460
+P0912,Product 0912,Beverages,Hyderabad,938,4,20,315.38,Supplier C,1460
+P0913,Product 0913,Electronics,Jamshedpur,354,12,5,1076.11,Supplier B,4380
+P0914,Product 0914,Stationery,Chennai,1125,7,12,1353.56,Supplier E,2555
+P0915,Product 0915,Clothing,Kolkata,238,11,16,923.37,Supplier A,4015
+P0916,Product 0916,Electronics,Mumbai,1082,12,3,326.87,Supplier E,4380
+P0917,Product 0917,Clothing,Patna,36,16,3,503.36,Supplier D,5840
+P0918,Product 0918,Healthcare,Delhi,24,23,18,1711.7,Supplier A,8395
+P0919,Product 0919,Personal Care,Delhi,94,21,3,88.25,Supplier A,7665
+P0920,Product 0920,Home Appliances,Mumbai,950,10,13,1423.55,Supplier B,3650
+P0921,Product 0921,Healthcare,Kolkata,308,9,19,1998.79,Supplier B,3285
+P0922,Product 0922,Clothing,Mumbai,541,19,13,34.82,Supplier B,6935
+P0923,Product 0923,Electronics,Hyderabad,565,4,11,338.87,Supplier C,1460
+P0924,Product 0924,Beverages,Delhi,947,14,9,1354.81,Supplier A,5110
+P0925,Product 0925,Beverages,Kolkata,418,11,14,138.78,Supplier A,4015
+P0926,Product 0926,Stationery,Ranchi,8,6,12,1187.78,Supplier D,2190
+P0927,Product 0927,Clothing,Kolkata,463,16,11,1374.32,Supplier E,5840
+P0928,Product 0928,Personal Care,Ranchi,345,9,4,1184.53,Supplier B,3285
+P0929,Product 0929,Electronics,Ranchi,877,6,14,743.07,Supplier E,2190
+P0930,Product 0930,Clothing,Pune,901,17,16,1400.62,Supplier B,6205
+P0931,Product 0931,Clothing,Jamshedpur,110,6,15,1196.7,Supplier B,2190
+P0932,Product 0932,Home Appliances,Delhi,951,17,3,431.12,Supplier A,6205
+P0933,Product 0933,Personal Care,Hyderabad,84,5,15,1135.01,Supplier C,1825
+P0934,Product 0934,Home Appliances,Pune,743,11,15,1766.18,Supplier C,4015
+P0935,Product 0935,Electronics,Ranchi,467,20,5,1340.33,Supplier D,7300
+P0936,Product 0936,Stationery,Ranchi,361,7,18,954.15,Supplier A,2555
+P0937,Product 0937,Beverages,Kolkata,579,19,11,656.74,Supplier A,6935
+P0938,Product 0938,Beverages,Mumbai,372,18,10,190.05,Supplier C,6570
+P0939,Product 0939,Electronics,Pune,952,22,15,504.36,Supplier A,8030
+P0940,Product 0940,Clothing,Patna,1160,5,11,42.15,Supplier A,1825
+P0941,Product 0941,Home Appliances,Ranchi,978,18,12,1973.52,Supplier D,6570
+P0942,Product 0942,Electronics,Patna,527,23,7,460.51,Supplier E,8395
+P0943,Product 0943,Stationery,Hyderabad,603,19,19,1633.45,Supplier C,6935
+P0944,Product 0944,Electronics,Jamshedpur,536,6,20,353.92,Supplier A,2190
+P0945,Product 0945,Beverages,Kolkata,952,20,4,581.53,Supplier E,7300
+P0946,Product 0946,Food,Ranchi,662,4,15,848.19,Supplier C,1460
+P0947,Product 0947,Stationery,Ranchi,561,15,2,662.32,Supplier D,5475
+P0948,Product 0948,Beverages,Pune,491,13,9,1600.73,Supplier A,4745
+P0949,Product 0949,Stationery,Jamshedpur,450,14,20,1916.23,Supplier C,5110
+P0950,Product 0950,Personal Care,Kolkata,663,13,5,1753.08,Supplier A,4745
+P0951,Product 0951,Food,Pune,826,2,9,324.08,Supplier D,730
+P0952,Product 0952,Personal Care,Bangalore,518,13,6,1557.84,Supplier B,4745
+P0953,Product 0953,Clothing,Jamshedpur,967,23,15,312.93,Supplier E,8395
+P0954,Product 0954,Electronics,Delhi,992,12,10,1828.49,Supplier A,4380
+P0955,Product 0955,Healthcare,Pune,514,8,13,1045.4,Supplier D,2920
+P0956,Product 0956,Clothing,Delhi,1090,24,19,686.03,Supplier A,8760
+P0957,Product 0957,Electronics,Mumbai,207,4,11,330.91,Supplier D,1460
+P0958,Product 0958,Home Appliances,Mumbai,1118,13,15,43.38,Supplier C,4745
+P0959,Product 0959,Stationery,Bangalore,352,13,3,510.94,Supplier E,4745
+P0960,Product 0960,Electronics,Ranchi,677,12,6,1829.76,Supplier D,4380
+P0961,Product 0961,Beverages,Hyderabad,340,23,19,1598.58,Supplier B,8395
+P0962,Product 0962,Electronics,Pune,530,11,18,1940.19,Supplier A,4015
+P0963,Product 0963,Healthcare,Ranchi,408,24,14,219.51,Supplier C,8760
+P0964,Product 0964,Beverages,Hyderabad,846,3,9,1192.51,Supplier C,1095
+P0965,Product 0965,Stationery,Hyderabad,97,18,5,529.16,Supplier A,6570
+P0966,Product 0966,Clothing,Chennai,1005,15,18,1095.02,Supplier C,5475
+P0967,Product 0967,Clothing,Kolkata,1084,7,16,654.5,Supplier B,2555
+P0968,Product 0968,Personal Care,Delhi,675,7,6,581.26,Supplier B,2555
+P0969,Product 0969,Stationery,Hyderabad,656,18,13,1156.21,Supplier A,6570
+P0970,Product 0970,Food,Ranchi,839,16,13,382.97,Supplier B,5840
+P0971,Product 0971,Personal Care,Hyderabad,238,16,11,948.88,Supplier B,5840
+P0972,Product 0972,Electronics,Pune,899,3,19,1308.61,Supplier A,1095
+P0973,Product 0973,Electronics,Bangalore,262,15,4,273.8,Supplier C,5475
+P0974,Product 0974,Electronics,Kolkata,811,24,6,1862.58,Supplier B,8760
+P0975,Product 0975,Beverages,Mumbai,366,2,3,1021.33,Supplier A,730
+P0976,Product 0976,Beverages,Jamshedpur,895,12,15,1642.67,Supplier C,4380
+P0977,Product 0977,Food,Pune,949,13,14,1314.73,Supplier A,4745
+P0978,Product 0978,Clothing,Kolkata,250,22,20,1425.8,Supplier E,8030
+P0979,Product 0979,Personal Care,Jamshedpur,740,8,12,1437.94,Supplier C,2920
+P0980,Product 0980,Clothing,Chennai,598,12,4,1752.7,Supplier E,4380
+P0981,Product 0981,Clothing,Bangalore,352,18,10,1234.94,Supplier E,6570
+P0982,Product 0982,Home Appliances,Bangalore,705,3,3,570.87,Supplier E,1095
+P0983,Product 0983,Clothing,Jamshedpur,1191,20,14,217.03,Supplier C,7300
+P0984,Product 0984,Home Appliances,Chennai,2,20,14,1220.38,Supplier C,7300
+P0985,Product 0985,Clothing,Bangalore,1148,18,18,151.38,Supplier D,6570
+P0986,Product 0986,Home Appliances,Chennai,1027,16,8,497.76,Supplier A,5840
+P0987,Product 0987,Clothing,Hyderabad,635,19,7,140.2,Supplier E,6935
+P0988,Product 0988,Personal Care,Patna,732,19,3,1106.8,Supplier B,6935
+P0989,Product 0989,Beverages,Patna,443,22,9,337.47,Supplier A,8030
+P0990,Product 0990,Healthcare,Pune,154,11,11,1228.61,Supplier B,4015
+P0991,Product 0991,Personal Care,Mumbai,685,12,16,1585.91,Supplier B,4380
+P0992,Product 0992,Clothing,Delhi,979,16,16,1647.32,Supplier A,5840
+P0993,Product 0993,Beverages,Patna,277,6,4,632.9,Supplier D,2190
+P0994,Product 0994,Electronics,Bangalore,860,21,7,1106.93,Supplier A,7665
+P0995,Product 0995,Clothing,Chennai,897,19,11,1134.76,Supplier E,6935
+P0996,Product 0996,Home Appliances,Jamshedpur,909,16,8,956.32,Supplier C,5840
+P0997,Product 0997,Clothing,Mumbai,408,8,2,1317.13,Supplier D,2920
+P0998,Product 0998,Personal Care,Pune,470,9,18,435.97,Supplier B,3285
+P0999,Product 0999,Stationery,Patna,499,12,15,1958.9,Supplier A,4380
+P1000,Product 1000,Clothing,Patna,1025,17,11,214.2,Supplier A,6205
